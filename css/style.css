@@ -65,13 +65,14 @@ ul {
 }
 
 .heading {
+    text-decoration: underline;
     padding: 5px;
     position: relative;
     width: 99%;
     height: auto;
     text-align: center;
     display: block;
-    background: #B19470;
+    background-color: #B19470;
 }
 
 
@@ -80,7 +81,7 @@ ul {
     padding: 30px 0;
     margin-bottom: 60px;
     line-height: 2em;
-    background: #B19470;
+    background-color: #B19470;
     text-align: center;
 }
 
