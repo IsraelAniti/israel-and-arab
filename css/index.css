@@ -15,6 +15,9 @@ h2 {
     text-decoration: underline;
 }
 
+h3 {
+    text-decoration: underline;
+}
 hr {
     width: 3%;
     border-style: dotted;
@@ -51,6 +54,38 @@ th {
     border-collapse: collapse;
     
 }
+
+.emphasized_par {
+    border: dashed #4F6F52;
+    margin: auto;
+
+}
+
+.li_title {
+    text-decoration: underline;
+}
+
+.saved_animals {
+    text-align: center;
+}
+
+
+ol {
+    display: inline-block;
+    text-align: right;
+
+}
+
+li {
+    padding: 10px;
+}
+ul {
+    display: block;
+    text-align: right;
+    line-height: 10px;
+
+}
+
 
 #table2, tr, td {
     padding: 20px;
